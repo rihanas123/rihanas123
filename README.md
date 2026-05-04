@@ -1,7 +1,7 @@
 # Hey there, I'm [Your Name] 👋
 ### ⚙️ DevOps & Cloud Engineer | AWS | Kubernetes | Terraform | CI/CD
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7FF&width=435&lines=DevOps+Engineer+%F0%9F%9A%80;Cloud+Infrastructure+Specialist+%E2%98%81%EF%B8%8F;Kubernetes+%7C+Terraform+%7C+AWS;Automating+Everything+%F0%9F%A4%96)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7FF&width=435&lines=DevOps+Engineer+%F0%9F%9A%80;Cloud+Infrastructure+%E2%98%81%EF%B8%8F;Kubernetes+%7C+Terraform+%7C+AWS;Automating+Everything+%F0%9F%A4%96)
 
 ---
 
