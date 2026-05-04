@@ -60,31 +60,13 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rihanas123&show_icons=true&theme=radical&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rihanas123&layout=compact&theme=radical&hide_border=true)
-![GitHub Streak](https://streak-stats.demolab.com?user=rihanas123&theme=radical&hide_border=true)
-
----
-
-## 📁 Featured Projects
-
-🔹 **[Cloud DevOps Journey](https://github.com/rihanas123/Cloud-DevOps-Journey)** — 90 Days of hands-on DevOps learning
-
-🔹 **[Terraform AWS Setup]** — Production-ready AWS infrastructure with Terraform
-
-🔹 **[Kubernetes Deployments]** — Real-world K8s deployments with Helm charts
-
-🔹 **[CI/CD Pipeline]** — End-to-end pipeline with GitHub Actions & ArgoCD
-
----
-
 ## 🤝 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rihanas123)
+<div align="center">
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rihan-shaikh-devops)
+
+</div>
 ---
 
 ⭐ *"Automate everything. Document everything. Break things safely."* ⭐
